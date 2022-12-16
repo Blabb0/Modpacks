@@ -1,0 +1,526 @@
+[18:25:12] [main/INFO]: ModLauncher running: args [--username, Excosm, --version, forge-43.2.0, --gameDir, C:\Users\erikk\curseforge\minecraft\Instances\Create server, --assetsDir, C:\Users\erikk\curseforge\minecraft\Install\assets, --assetIndex, 1.19, --uuid, 242d2bfc732849d98a970ccac5e51aea, --accessToken, ????????, --clientId, M2YzN2NiYzMtMzY2Mi00Y2JjLTlkODItODI1NzFlMTU3YjQ4, --xuid, 2535408908320511, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[18:25:12] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[18:25:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/erikk/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2391!/ Service=ModLauncher Env=CLIENT
+[18:25:12] [main/WARN]: Configuration file C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\fml.toml is not correct. Correcting
+[18:25:12] [main/WARN]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[18:25:12] [main/INFO]: Found mod file comforts-forge-6.0.3+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file Controlling-forge-1.19.2-10.0+7.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file CosmeticArmorReworked-1.19.2-v1a.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file create-1.19.2-0.5.0.g.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file createindustry-0.4.0-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file createplus-1.19.2_v0.5.2a.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file FastLeafDecay-30.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file flywheel-forge-1.19.2-0.6.8.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file jei-1.19.2-forge-11.4.0.290.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file JustEnoughResources-1.19.2-1.2.0.188.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file MouseTweaks-forge-mc1.19-2.23.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file StorageDrawers-1.19-11.1.2.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file Xaeros_Minimap_22.16.3_Forge_1.19.1.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/INFO]: Found mod file XaerosWorldMap_1.28.4_Forge_1.19.1.jar of type MOD with provider {mods folder locator at C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods}
+[18:25:12] [main/WARN]: Mod file C:\Users\erikk\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.0\fmlcore-1.19.2-43.2.0.jar is missing mods.toml file
+[18:25:12] [main/WARN]: Mod file C:\Users\erikk\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.0\javafmllanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[18:25:12] [main/WARN]: Mod file C:\Users\erikk\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.0\lowcodelanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[18:25:12] [main/WARN]: Mod file C:\Users\erikk\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.0\mclanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[18:25:12] [main/INFO]: Found mod file fmlcore-1.19.2-43.2.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4cee7fa0
+[18:25:12] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4cee7fa0
+[18:25:12] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4cee7fa0
+[18:25:12] [main/INFO]: Found mod file mclanguage-1.19.2-43.2.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4cee7fa0
+[18:25:12] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4cee7fa0
+[18:25:12] [main/INFO]: Found mod file forge-1.19.2-43.2.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4cee7fa0
+[18:25:13] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: flywheel. Using Mod File: C:\Users\erikk\curseforge\minecraft\Instances\Create server\mods\flywheel-forge-1.19.2-0.6.8.jar
+[18:25:13] [main/INFO]: Found 2 dependencies adding them to mods collection
+[18:25:13] [main/INFO]: Found mod file Registrate-MC1.19-1.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5bcde458
+[18:25:13] [main/INFO]: Found mod file spectrelib-forge-0.10.0+1.19.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5bcde458
+[18:25:13] [main/INFO]: Compatibility level set to JAVA_17
+[18:25:13] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-43.2.0, --gameDir, C:\Users\erikk\curseforge\minecraft\Instances\Create server, --assetsDir, C:\Users\erikk\curseforge\minecraft\Install\assets, --uuid, 242d2bfc732849d98a970ccac5e51aea, --username, Excosm, --assetIndex, 1.19, --accessToken, ????????, --clientId, M2YzN2NiYzMtMzY2Mi00Y2JjLTlkODItODI1NzFlMTU3YjQ4, --xuid, 2535408908320511, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[18:25:14] [main/WARN]: Reference map 'createindustry.refmap.json' for createindustry.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:25:14] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/data/ChunkRenderData$Builder (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder)
+[18:25:14] [main/WARN]: @Mixin target me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder was not found flywheel.mixins.json:instancemanage.SodiumChunkRenderDataMixin
+[18:25:17] [pool-3-thread-1/INFO]: Building unoptimized datafixer
+[18:25:18] [Render thread/WARN]: Assets URL 'union:/C:/Users/erikk/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
+[18:25:18] [Render thread/WARN]: Assets URL 'union:/C:/Users/erikk/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
+[18:25:18] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:25:19] [Render thread/INFO]: Setting user: Excosm
+[18:25:19] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[18:25:19] [modloading-worker-0/INFO]: Forge mod loading, version 43.2.0, for MC 1.19.2 with MCP 20220805.130853
+[18:25:19] [modloading-worker-0/INFO]: MinecraftForge v43.2.0 Initialized
+[18:25:19] [modloading-worker-0/WARN]: Configuration file C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\jeresources.toml is not correct. Correcting
+[18:25:19] [modloading-worker-0/INFO]: No shaders mod detected.
+[18:25:19] [modloading-worker-0/WARN]: Incorrect key itemsPerColumn was corrected from null to its default, 4. 
+[18:25:19] [modloading-worker-0/WARN]: Incorrect key itemsPerRow was corrected from null to its default, 4. 
+[18:25:19] [modloading-worker-0/WARN]: Incorrect key diyData was corrected from null to its default, true. 
+[18:25:19] [modloading-worker-0/WARN]: Incorrect key showDevData was corrected from null to its default, false. 
+[18:25:19] [modloading-worker-0/WARN]: Incorrect key enchantsBlacklist was corrected from null to its default, [flimflam, soulBound]. 
+[18:25:19] [modloading-worker-0/WARN]: Incorrect key hiddenTabs was corrected from null to its default, []. 
+[18:25:19] [modloading-worker-0/WARN]: Incorrect key dimensionsBlacklist was corrected from null to its default, [-11]. 
+[18:25:19] [modloading-worker-0/WARN]: Incorrect key disableLootManagerReloading was corrected from null to its default, false. 
+[18:25:22] [Render thread/INFO]: Saving config file: C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\jei\jei-client.ini
+[18:25:22] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[18:25:22] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources
+[18:25:22] [modloading-worker-0/WARN]: Configuration file C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\flywheel-client.toml is not correct. Correcting
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key backend was corrected from null to its default, INSTANCING. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key debugNormals was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key limitUpdates was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Configuration file C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\cosmeticarmorreworked-client.toml is not correct. Correcting
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Client.CosArmorGuiButton_Hidden was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Client.CosArmorGuiButton_Left was corrected from null to its default, 65. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Client.CosArmorGuiButton_Top was corrected from null to its default, 67. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Client.CosArmorToggleButton_Hidden was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Client.CosArmorToggleButton_Left was corrected from null to its default, 59. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Client.CosArmorToggleButton_Top was corrected from null to its default, 72. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Client.CosArmorCreativeGuiButton_Hidden was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Client.CosArmorCreativeGuiButton_Left was corrected from null to its default, 95. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Client.CosArmorCreativeGuiButton_Top was corrected from null to its default, 38. 
+[18:25:22] [modloading-worker-0/WARN]: Configuration file C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\storagedrawers-client.toml is not correct. Correcting
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key General was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key General.invertShift was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Render was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Render.labelRenderDistance was corrected from null to its default, 25.0. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Render.quantityRenderDistance was corrected from null to its default, 10.0. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Render.quantityFadeDistance was corrected from null to its default, 4.0. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Integration was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Integration.enableWaila was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Integration.enableTheOneProbe was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Configuration file C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\forge-client.toml is not correct. Correcting
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.experimentalForgeLightPipelineEnabled was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.showLoadWarnings was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.useCombinedDepthStencilAttachment was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.compressLanIPv6Addresses was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Configuration file C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\create-client.toml is not correct. Correcting
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[18:25:22] [modloading-worker-0/WARN]: Configuration file C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\jeresources-common.toml is not correct. Correcting
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key itemsPerColumn was corrected from null to its default, 4. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key itemsPerRow was corrected from null to its default, 4. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key diyData was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key showDevData was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key enchantsBlacklist was corrected from null to its default, [flimflam, soulBound]. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key hiddenTabs was corrected from null to its default, []. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key dimensionsBlacklist was corrected from null to its default, [-11]. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key disableLootManagerReloading was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Configuration file C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\cosmeticarmorreworked-common.toml is not correct. Correcting
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Common.CosArmorKeepThroughDeath was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Common.CosArmorDisableRecipeBook was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Common.CosArmorDisableCosHatCommand was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Configuration file C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\storagedrawers-common.toml is not correct. Correcting
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key General was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key General.baseStackStorage was corrected from null to its default, 4. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key General.controllerRange was corrected from null to its default, 50. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key General.enableUI was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key General.enableSidedInput was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key General.enableSidedOutput was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key General.enableItemConversion was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key General.enableExtraCompactingRules was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key General.debugTrace was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key General.compactingRules was corrected from null to its default, [minecraft:clay, minecraft:clay_ball, 4]. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key StorageUpgrades was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key StorageUpgrades.level1Mult was corrected from null to its default, 2. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key StorageUpgrades.level2Mult was corrected from null to its default, 4. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key StorageUpgrades.level3Mult was corrected from null to its default, 8. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key StorageUpgrades.level4Mult was corrected from null to its default, 16. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key StorageUpgrades.level5Mult was corrected from null to its default, 32. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Integration was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Integration.wailaStackRemainder was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key Integration.wailaRespectQuantifyKey was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Configuration file C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\forge-common.toml is not correct. Correcting
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key general.cachePackAccess was corrected from null to its default, true. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key general.indexVanillaPackCachesOnThread was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key general.indexModPackCachesOnThread was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Configuration file C:\Users\erikk\curseforge\minecraft\Instances\Create server\config\create-common.toml is not correct. Correcting
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2 was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.disableWorldGen was corrected from null to its default, false. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.clusterSize was corrected from null to its default, 32. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.frequency was corrected from null to its default, 0.0833333358168602. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.minHeight was corrected from null to its default, 40. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.maxHeight was corrected from null to its default, 90. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.clusterSize was corrected from null to its default, 32. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.frequency was corrected from null to its default, 0.0833333358168602. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.minHeight was corrected from null to its default, -30. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.maxHeight was corrected from null to its default, 70. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.clusterSize was corrected from null to its default, 12. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.frequency was corrected from null to its default, 8.0. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.minHeight was corrected from null to its default, -63. 
+[18:25:22] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.maxHeight was corrected from null to its default, 70. 
+[18:25:23] [Worker-Main-2/INFO]: New compacting rule 4 clay_ball = 1 clay
+[18:25:23] [Worker-Main-6/INFO]: Create Plus Setup
+[18:25:23] [Worker-Main-2/INFO]: New compacting rule 4 snowball = 1 snow_block
+[18:25:23] [Worker-Main-2/INFO]: New compacting rule 4 glowstone_dust = 1 glowstone
+[18:25:23] [Worker-Main-2/INFO]: New compacting rule 4 brick = 1 bricks
+[18:25:23] [Worker-Main-2/INFO]: New compacting rule 4 nether_brick = 1 nether_bricks
+[18:25:23] [Worker-Main-2/INFO]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[18:25:23] [Worker-Main-2/INFO]: New compacting rule 4 quartz = 1 quartz_block
+[18:25:23] [Worker-Main-2/INFO]: New compacting rule 9 melon_slice = 1 melon
+[18:25:23] [Worker-Main-2/INFO]: New compacting rule 4 sand = 1 sandstone
+[18:25:23] [Worker-Main-2/INFO]: New compacting rule 4 red_sand = 1 red_sandstone
+[18:25:23] [Worker-Main-2/INFO]: New compacting rule 4 clay_ball = 1 clay
+[18:25:23] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18:25:23] [Worker-Main-7/INFO]: Loading Xaero's Minimap - Stage 1/2
+[18:25:23] [Worker-Main-10/INFO]: Loading Xaero's World Map - Stage 1/2
+[18:25:23] [Worker-Main-11/INFO]: Create Plus Client Setup
+[18:25:23] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 43.2.0 Target: null
+[18:25:23] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/5lpsZoRi/forge_updates.json
+[18:25:24] [Forge Version Check/INFO]: [flywheel] Found status: AHEAD Current: 0.6.8-13 Target: null
+[18:25:24] [Forge Version Check/INFO]: [fastleafdecay] Starting version check at https://www.olafkeijsers.net/fastleafdecay-update.json
+[18:25:24] [Forge Version Check/INFO]: [fastleafdecay] Found status: BETA Current: 30 Target: null
+[18:25:24] [Forge Version Check/INFO]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.19.2
+[18:25:24] [Forge Version Check/INFO]: [controlling] Found status: BETA Current: 10.0+7 Target: 10.0+7
+[18:25:24] [Worker-Main-10/ERROR]: suppressed exception
+java.net.SocketTimeoutException: Connect timed out
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2048) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2043) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:2042) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1609) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at xaero.map.misc.Internet.checkModVersion(Internet.java:53) ~[XaerosWorldMap_1.28.4_Forge_1.19.1.jar%23172!/:1.28.4]
+	at xaero.map.WorldMap.loadClient(WorldMap.java:176) ~[XaerosWorldMap_1.28.4_Forge_1.19.1.jar%23172!/:1.28.4]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:107) ~[javafmllanguage-1.19.2-43.2.0.jar%23175!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:122) ~[fmlcore-1.19.2-43.2.0.jar%23174!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.net.SocketTimeoutException: Connect timed out
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:546) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597) ~[?:?]
+	at java.net.Socket.connect(Socket.java:633) ~[?:?]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:178) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:498) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:603) ~[?:?]
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:246) ~[?:?]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:351) ~[?:?]
+	at sun.net.www.http.HttpClient.New(HttpClient.java:373) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1309) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1057) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2887) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2796) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1927) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:3221) ~[?:?]
+	at java.net.URLConnection.getHeaderFieldLong(URLConnection.java:637) ~[?:?]
+	at java.net.URLConnection.getContentLengthLong(URLConnection.java:509) ~[?:?]
+	at xaero.map.misc.Internet.checkModVersion(Internet.java:51) ~[XaerosWorldMap_1.28.4_Forge_1.19.1.jar%23172!/:1.28.4]
+	... 14 more
+[18:25:24] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[18:25:25] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[18:25:25] [Render thread/INFO]: No Optifine!
+[18:25:25] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[18:25:25] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[18:25:25] [Render thread/INFO]: New world map region cache hash code: -1814391455
+[18:25:25] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[18:25:25] [Render thread/INFO]: No Optifine!
+[18:25:25] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[18:25:28] [Worker-Main-7/ERROR]: Using missing texture, file create:textures/fluid/liquid_concrete_fluid_flow.png not found
+[18:25:28] [Worker-Main-1/ERROR]: Using missing texture, file createindustry:textures/block/layered_bauxite.png not found
+[18:25:28] [Worker-Main-1/ERROR]: Using missing texture, file create:textures/fluid/liquid_concrete_fluid_still.png not found
+[18:25:29] [Render thread/INFO]: Loaded all shader sources.
+[18:25:31] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[18:25:31] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[18:25:31] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (2- Realtek(R) Audio)
+[18:25:31] [Render thread/INFO]: Sound engine started
+[18:25:31] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[18:25:31] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[18:25:31] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[18:25:31] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[18:25:31] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[18:25:31] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[18:25:31] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[18:25:32] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[18:25:32] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[18:25:32] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[18:25:32] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[18:25:32] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[18:25:32] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[18:25:32] [Render thread/INFO]: Successfully reloaded the world map shaders!
+[18:30:09] [Render thread/INFO]: Connecting to 192.168.1.233, 25565
+[18:30:11] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[18:30:12] [Netty Client IO #1/INFO]: Connected to a modded server.
+[18:30:14] [Render thread/INFO]: New world map session initialized!
+[18:30:14] [Render thread/INFO]: New minimap session initialized!
+[18:30:14] [Render thread/INFO]: Started 6 worker threads
+[18:30:14] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[18:30:14] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[18:30:14] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[18:30:16] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[18:30:16] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[18:30:16] [Render thread/INFO]: Starting JEI...
+[18:30:16] [Render thread/INFO]: Registering item subtypes: jei:minecraft ...
+[18:30:16] [Render thread/INFO]: Registering item subtypes: jei:minecraft took 1.036 ms
+[18:30:16] [Render thread/INFO]: Registering item subtypes: jei:debug ...
+[18:30:16] [Render thread/INFO]: Registering item subtypes: jei:debug took 8.400 ?s
+[18:30:16] [Render thread/INFO]: Registering item subtypes: jei:forge ...
+[18:30:16] [Render thread/INFO]: Registering item subtypes: jei:forge took 7.600 ?s
+[18:30:16] [Render thread/INFO]: Registering item subtypes: minecraft:jeresources ...
+[18:30:16] [Render thread/INFO]: Registering item subtypes: minecraft:jeresources took 11.40 ?s
+[18:30:16] [Render thread/INFO]: Registering item subtypes: create:jei_plugin ...
+[18:30:16] [Render thread/INFO]: Registering item subtypes: create:jei_plugin took 10.10 ?s
+[18:30:16] [Render thread/INFO]: Registering item subtypes: jei:internal ...
+[18:30:16] [Render thread/INFO]: Registering item subtypes: jei:internal took 10.30 ?s
+[18:30:16] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft ...
+[18:30:16] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft took 18.60 ?s
+[18:30:16] [Render thread/INFO]: Registering fluid subtypes: jei:debug ...
+[18:30:16] [Render thread/INFO]: Registering fluid subtypes: jei:debug took 697.9 ?s
+[18:30:16] [Render thread/INFO]: Registering fluid subtypes: jei:forge ...
+[18:30:16] [Render thread/INFO]: Registering fluid subtypes: jei:forge took 7.600 ?s
+[18:30:16] [Render thread/INFO]: Registering fluid subtypes: minecraft:jeresources ...
+[18:30:16] [Render thread/INFO]: Registering fluid subtypes: minecraft:jeresources took 7.000 ?s
+[18:30:16] [Render thread/INFO]: Registering fluid subtypes: create:jei_plugin ...
+[18:30:16] [Render thread/INFO]: Registering fluid subtypes: create:jei_plugin took 362.7 ?s
+[18:30:16] [Render thread/INFO]: Registering fluid subtypes: jei:internal ...
+[18:30:16] [Render thread/INFO]: Registering fluid subtypes: jei:internal took 9.500 ?s
+[18:30:16] [Render thread/INFO]: Registering ingredients: jei:minecraft ...
+[18:30:16] [Render thread/INFO]: Registering ingredients: jei:minecraft took 45.89 ms
+[18:30:16] [Render thread/INFO]: Registering ingredients: jei:debug ...
+[18:30:16] [Render thread/INFO]: Registering ingredients: jei:debug took 30.00 ?s
+[18:30:16] [Render thread/INFO]: Registering ingredients: jei:forge ...
+[18:30:16] [Render thread/INFO]: Registering ingredients: jei:forge took 7.800 ?s
+[18:30:16] [Render thread/INFO]: Registering ingredients: minecraft:jeresources ...
+[18:30:16] [Render thread/INFO]: Registering ingredients: minecraft:jeresources took 7.100 ?s
+[18:30:16] [Render thread/INFO]: Registering ingredients: create:jei_plugin ...
+[18:30:16] [Render thread/INFO]: Registering ingredients: create:jei_plugin took 7.300 ?s
+[18:30:16] [Render thread/INFO]: Registering ingredients: jei:internal ...
+[18:30:16] [Render thread/INFO]: Registering ingredients: jei:internal took 7.800 ?s
+[18:30:16] [Render thread/INFO]: Building ingredient list...
+[18:30:16] [Render thread/INFO]: Building ingredient list took 4.480 ms
+[18:30:16] [Render thread/INFO]: Building ingredient filter...
+[18:30:16] [Render thread/INFO]: Adding 2289 ingredients
+[18:30:17] [Render thread/INFO]: Added 2289 ingredients
+[18:30:17] [Render thread/INFO]: Building ingredient filter took 269.6 ms
+[18:30:17] [Render thread/INFO]: Building bookmarks...
+[18:30:17] [Render thread/INFO]: Building bookmarks took 3.206 ms
+[18:30:17] [Render thread/INFO]: Registering categories: jei:minecraft ...
+[18:30:17] [Render thread/INFO]: Registering categories: jei:minecraft took 12.11 ms
+[18:30:17] [Render thread/INFO]: Registering categories: jei:debug ...
+[18:30:17] [Render thread/INFO]: Registering categories: jei:debug took 24.50 ?s
+[18:30:17] [Render thread/INFO]: Registering categories: jei:forge ...
+[18:30:17] [Render thread/INFO]: Registering categories: jei:forge took 12.90 ?s
+[18:30:17] [Render thread/INFO]: Registering categories: minecraft:jeresources ...
+[18:30:17] [Render thread/INFO]: Reloading ResourceManager: Default, client-1.19.2-20220805.130853-srg.jar, MouseTweaks-forge-mc1.19-2.23.jar, createindustry-0.4.0-1.19.2.jar, jei-1.19.2-forge-11.4.0.290.jar, spectrelib-forge-0.10.0+1.19.jar, JustEnoughResources-1.19.2-1.2.0.188.jar, forge-1.19.2-43.2.0-universal.jar, flywheel-forge-1.19.2-0.6.8.jar, FastLeafDecay-30.jar, CosmeticArmorReworked-1.19.2-v1a.jar, create-1.19.2-0.5.0.g.jar, Xaeros_Minimap_22.16.3_Forge_1.19.1.jar, XaerosWorldMap_1.28.4_Forge_1.19.1.jar, Controlling-forge-1.19.2-10.0+7.jar, comforts-forge-6.0.3+1.19.2.jar, StorageDrawers-1.19-11.1.2.jar, createplus-1.19.2_v0.5.2a.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack client-1.19.2-20220805.130853-srg.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack MouseTweaks-forge-mc1.19-2.23.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack createindustry-0.4.0-1.19.2.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack jei-1.19.2-forge-11.4.0.290.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack JustEnoughResources-1.19.2-1.2.0.188.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack forge-1.19.2-43.2.0-universal.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack flywheel-forge-1.19.2-0.6.8.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack FastLeafDecay-30.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack CosmeticArmorReworked-1.19.2-v1a.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack create-1.19.2-0.5.0.g.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack Xaeros_Minimap_22.16.3_Forge_1.19.1.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack XaerosWorldMap_1.28.4_Forge_1.19.1.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack Controlling-forge-1.19.2-10.0+7.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack comforts-forge-6.0.3+1.19.2.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack StorageDrawers-1.19-11.1.2.jar
+[18:30:17] [Render thread/ERROR]: Failed to get filter section from pack createplus-1.19.2_v0.5.2a.jar
+[18:30:17] [Render thread/INFO]: Minimap updated server level id: -425980312 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[18:30:17] [Render thread/INFO]: Loaded 0 advancements
+[18:30:18] [Render thread/WARN]: Failed loading villager cartographer registered at cartographer
+[18:30:18] [Render thread/WARN]: Exception caught when registering villager
+java.lang.NullPointerException: Cannot read field "f_19853_" because "p_219708_" is null
+	at net.minecraft.world.entity.npc.VillagerTrades$TreasureMapForEmeralds.m_213663_(VillagerTrades.java:877) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at jeresources.collection.TradeList.addMerchantRecipe(TradeList.java:58) ~[JustEnoughResources-1.19.2-1.2.0.188.jar%23168!/:1.2.0.188]
+	at jeresources.collection.TradeList.addITradeList(TradeList.java:69) ~[JustEnoughResources-1.19.2-1.2.0.188.jar%23168!/:1.2.0.188]
+	at jeresources.entry.AbstractVillagerEntry.addITradeLists(AbstractVillagerEntry.java:30) ~[JustEnoughResources-1.19.2-1.2.0.188.jar%23168!/:1.2.0.188]
+	at jeresources.entry.AbstractVillagerEntry.<init>(AbstractVillagerEntry.java:23) ~[JustEnoughResources-1.19.2-1.2.0.188.jar%23168!/:1.2.0.188]
+	at jeresources.entry.VillagerEntry.<init>(VillagerEntry.java:19) ~[JustEnoughResources-1.19.2-1.2.0.188.jar%23168!/:1.2.0.188]
+	at jeresources.util.VillagersHelper.initRegistry(VillagersHelper.java:23) ~[JustEnoughResources-1.19.2-1.2.0.188.jar%23168!/:1.2.0.188]
+	at jeresources.compatibility.Compatibility.init(Compatibility.java:33) ~[JustEnoughResources-1.19.2-1.2.0.188.jar%23168!/:1.2.0.188]
+	at jeresources.proxy.CommonProxy.initCompatibility(CommonProxy.java:14) ~[JustEnoughResources-1.19.2-1.2.0.188.jar%23168!/:1.2.0.188]
+	at jeresources.jei.JEIConfig.registerCategories(JEIConfig.java:98) ~[JustEnoughResources-1.19.2-1.2.0.188.jar%23168!/:1.2.0.188]
+	at mezz.jei.common.load.PluginLoader.lambda$createRecipeCategories$3(PluginLoader.java:137) ~[jei-1.19.2-forge-11.4.0.290.jar%23167!/:11.4.0.290]
+	at mezz.jei.common.load.PluginCaller.callOnPlugins(PluginCaller.java:25) ~[jei-1.19.2-forge-11.4.0.290.jar%23167!/:11.4.0.290]
+	at mezz.jei.common.load.PluginLoader.createRecipeCategories(PluginLoader.java:137) ~[jei-1.19.2-forge-11.4.0.290.jar%23167!/:11.4.0.290]
+	at mezz.jei.common.load.PluginLoader.createRecipeManager(PluginLoader.java:164) ~[jei-1.19.2-forge-11.4.0.290.jar%23167!/:11.4.0.290]
+	at mezz.jei.common.startup.JeiStarter.start(JeiStarter.java:88) ~[jei-1.19.2-forge-11.4.0.290.jar%23167!/:11.4.0.290]
+	at mezz.jei.forge.startup.ClientLifecycleHandler.startJei(ClientLifecycleHandler.java:90) ~[jei-1.19.2-forge-11.4.0.290.jar%23167!/:11.4.0.290]
+	at mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137) ~[jei-1.19.2-forge-11.4.0.290.jar%23167!/:11.4.0.290]
+	at mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100) ~[jei-1.19.2-forge-11.4.0.290.jar%23167!/:11.4.0.290]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1321) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1072) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:700) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:212) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23173!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.2.0.jar%2395!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[18:30:18] [Render thread/INFO]: Registering categories: minecraft:jeresources took 1.581 s
+[18:30:18] [Render thread/INFO]: Registering categories: create:jei_plugin ...
+[18:30:18] [Render thread/INFO]: Registering categories: create:jei_plugin took 41.30 ms
+[18:30:18] [Render thread/INFO]: Registering categories: jei:internal ...
+[18:30:18] [Render thread/INFO]: Registering categories: jei:internal took 858.3 ?s
+[18:30:18] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[18:30:18] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft took 1.561 ms
+[18:30:18] [Render thread/INFO]: Registering vanilla category extensions: jei:debug ...
+[18:30:18] [Render thread/INFO]: Registering vanilla category extensions: jei:debug took 9.700 ?s
+[18:30:18] [Render thread/INFO]: Registering vanilla category extensions: jei:forge ...
+[18:30:18] [Render thread/INFO]: Registering vanilla category extensions: jei:forge took 8.000 ?s
+[18:30:18] [Render thread/INFO]: Registering vanilla category extensions: minecraft:jeresources ...
+[18:30:18] [Render thread/INFO]: Registering vanilla category extensions: minecraft:jeresources took 8.000 ?s
+[18:30:18] [Render thread/INFO]: Registering vanilla category extensions: create:jei_plugin ...
+[18:30:18] [Render thread/INFO]: Registering vanilla category extensions: create:jei_plugin took 7.400 ?s
+[18:30:18] [Render thread/INFO]: Registering vanilla category extensions: jei:internal ...
+[18:30:18] [Render thread/INFO]: Registering vanilla category extensions: jei:internal took 7.700 ?s
+[18:30:18] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft ...
+[18:30:18] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft took 247.4 ?s
+[18:30:18] [Render thread/INFO]: Registering recipe catalysts: jei:debug ...
+[18:30:18] [Render thread/INFO]: Registering recipe catalysts: jei:debug took 12.50 ?s
+[18:30:18] [Render thread/INFO]: Registering recipe catalysts: jei:forge ...
+[18:30:18] [Render thread/INFO]: Registering recipe catalysts: jei:forge took 7.800 ?s
+[18:30:18] [Render thread/INFO]: Registering recipe catalysts: minecraft:jeresources ...
+[18:30:18] [Render thread/INFO]: Registering recipe catalysts: minecraft:jeresources took 6.800 ?s
+[18:30:18] [Render thread/INFO]: Registering recipe catalysts: create:jei_plugin ...
+[18:30:18] [Render thread/INFO]: Registering recipe catalysts: create:jei_plugin took 1.113 ms
+[18:30:18] [Render thread/INFO]: Registering recipe catalysts: jei:internal ...
+[18:30:18] [Render thread/INFO]: Registering recipe catalysts: jei:internal took 9.700 ?s
+[18:30:18] [Render thread/INFO]: Registering advanced plugins: jei:minecraft ...
+[18:30:18] [Render thread/INFO]: Registering advanced plugins: jei:minecraft took 20.90 ?s
+[18:30:18] [Render thread/INFO]: Registering advanced plugins: jei:debug ...
+[18:30:18] [Render thread/INFO]: Registering advanced plugins: jei:debug took 9.600 ?s
+[18:30:18] [Render thread/INFO]: Registering advanced plugins: jei:forge ...
+[18:30:18] [Render thread/INFO]: Registering advanced plugins: jei:forge took 8.400 ?s
+[18:30:18] [Render thread/INFO]: Registering advanced plugins: minecraft:jeresources ...
+[18:30:18] [Render thread/INFO]: Registering advanced plugins: minecraft:jeresources took 8.800 ?s
+[18:30:18] [Render thread/INFO]: Registering advanced plugins: create:jei_plugin ...
+[18:30:18] [Render thread/INFO]: Registering advanced plugins: create:jei_plugin took 8.700 ?s
+[18:30:18] [Render thread/INFO]: Registering advanced plugins: jei:internal ...
+[18:30:18] [Render thread/INFO]: Registering advanced plugins: jei:internal took 8.600 ?s
+[18:30:18] [Render thread/INFO]: Building recipe registry...
+[18:30:18] [Render thread/INFO]: Building recipe registry took 10.29 ms
+[18:30:18] [Render thread/INFO]: Registering recipes: jei:minecraft ...
+[18:30:19] [Render thread/INFO]: Registering recipes: jei:minecraft took 227.7 ms
+[18:30:19] [Render thread/INFO]: Registering recipes: jei:debug ...
+[18:30:19] [Render thread/INFO]: Registering recipes: jei:debug took 34.30 ?s
+[18:30:19] [Render thread/INFO]: Registering recipes: jei:forge ...
+[18:30:19] [Render thread/INFO]: Registering recipes: jei:forge took 8.700 ?s
+[18:30:19] [Render thread/INFO]: Registering recipes: minecraft:jeresources ...
+[18:30:19] [Render thread/INFO]: Registering recipes: minecraft:jeresources took 25.29 ms
+[18:30:19] [Render thread/INFO]: Registering recipes: create:jei_plugin ...
+[18:30:19] [Render thread/INFO]: Registering recipes: create:jei_plugin took 113.8 ms
+[18:30:19] [Render thread/INFO]: Registering recipes: jei:internal ...
+[18:30:19] [Render thread/INFO]: Registering recipes: jei:internal took 7.600 ?s
+[18:30:19] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[18:30:19] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft took 1.790 ms
+[18:30:19] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug ...
+[18:30:19] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug took 8.300 ?s
+[18:30:19] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge ...
+[18:30:19] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge took 6.600 ?s
+[18:30:19] [Render thread/INFO]: Registering recipes transfer handlers: minecraft:jeresources ...
+[18:30:19] [Render thread/INFO]: Registering recipes transfer handlers: minecraft:jeresources took 6.700 ?s
+[18:30:19] [Render thread/INFO]: Registering recipes transfer handlers: create:jei_plugin ...
+[18:30:19] [Render thread/INFO]: Registering recipes transfer handlers: create:jei_plugin took 531.7 ?s
+[18:30:19] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal ...
+[18:30:19] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal took 9.000 ?s
+[18:30:19] [Render thread/INFO]: Building runtime...
+[18:30:19] [Render thread/INFO]: Registering gui handlers: jei:minecraft ...
+[18:30:19] [Render thread/INFO]: Registering gui handlers: jei:minecraft took 1.329 ms
+[18:30:19] [Render thread/INFO]: Registering gui handlers: jei:debug ...
+[18:30:19] [Render thread/INFO]: Registering gui handlers: jei:debug took 13.20 ?s
+[18:30:19] [Render thread/INFO]: Registering gui handlers: jei:forge ...
+[18:30:19] [Render thread/INFO]: Registering gui handlers: jei:forge took 7.800 ?s
+[18:30:19] [Render thread/INFO]: Registering gui handlers: minecraft:jeresources ...
+[18:30:19] [Render thread/INFO]: Registering gui handlers: minecraft:jeresources took 7.000 ?s
+[18:30:19] [Render thread/INFO]: Registering gui handlers: create:jei_plugin ...
+[18:30:19] [Render thread/INFO]: Registering gui handlers: create:jei_plugin took 773.1 ?s
+[18:30:19] [Render thread/INFO]: Registering gui handlers: jei:internal ...
+[18:30:19] [Render thread/INFO]: Registering gui handlers: jei:internal took 3.813 ms
+[18:30:19] [Render thread/INFO]: Building runtime took 33.63 ms
+[18:30:19] [Render thread/INFO]: Sending Runtime: jei:minecraft ...
+[18:30:19] [Render thread/INFO]: Sending Runtime: jei:minecraft took 20.80 ?s
+[18:30:19] [Render thread/INFO]: Sending Runtime: jei:debug ...
+[18:30:19] [Render thread/INFO]: Sending Runtime: jei:debug took 15.00 ?s
+[18:30:19] [Render thread/INFO]: Sending Runtime: jei:forge ...
+[18:30:19] [Render thread/INFO]: Sending Runtime: jei:forge took 8.000 ?s
+[18:30:19] [Render thread/INFO]: Sending Runtime: minecraft:jeresources ...
+[18:30:19] [Render thread/INFO]: Sending Runtime: minecraft:jeresources took 17.60 ?s
+[18:30:19] [Render thread/INFO]: Sending Runtime: create:jei_plugin ...
+[18:30:19] [Render thread/INFO]: Sending Runtime: create:jei_plugin took 7.800 ?s
+[18:30:19] [Render thread/INFO]: Sending Runtime: jei:internal ...
+[18:30:19] [Render thread/INFO]: Sending Runtime: jei:internal took 7.900 ?s
+[18:30:19] [Render thread/INFO]: Starting JEI took 2.458 s
+[18:30:19] [Render thread/INFO]: Reloading entity icon resources...
+[18:30:19] [Render thread/INFO]: Done!
+[18:32:39] [Render thread/INFO]: Loaded 8 advancements
+[18:33:21] [Render thread/INFO]: [System] [CHAT] [Server: Made Excosm a server operator]
+[18:33:24] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[18:33:34] [Render thread/INFO]: Loaded 36 advancements
+[18:34:51] [Render thread/INFO]: Finalizing world map session...
+[18:34:51] [Thread-6/INFO]: World map cleaned normally!
+[18:34:52] [Render thread/INFO]: World map session finalized.
+[18:34:52] [Render thread/INFO]: Minimap session finalized.
+[18:34:52] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[18:34:52] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[18:34:52] [Render thread/INFO]: Stopping JEI
+[18:34:56] [Render thread/INFO]: Stopping!
